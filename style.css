@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.lux-logo{
+    width: 120px;
+    height: 80px;
+}
+.header-font-style{
+    font-size: 15px;
+    text-decoration: none;
+    color: rgb(57, 6, 56);
+    font-weight: 500;
+}
+.headbar:hover{
+    text-decoration: underline #710d73 ;
+    
+}
+
+
+/* signup button and hover */
+.signup-button{
+    width: 120px;
+    height: 40px;
+    border-radius: 30px;
+    letter-spacing: 2px;
+    background-color: #d6b385;
+    
+}
+.signup-button:hover{
+    background-color: aliceblue;
+}
+
+
+/* body first */
+.story-section{
+    background-color:#710d73
+}
+
+/* learnmore button anad hover */
+.learn-more-btn{
+    width: 200px;
+    height: 40px;
+    border-radius: 30px;
+    letter-spacing: 2px;
+    background-color: #f7cf99;
+   
+}
+.learn-more-btn:hover{
+    background-color: white;
+}
+
+/* view more butn and hover */
+.view-more-button{
+    width: 200px;
+    height: 40px;
+    border-radius: 30px;
+    font-weight: bold;
+    background-color: #f7cf99;
+   
+}
+.view-more-button:hover{
+    background-color: white;
+}
+
+
+
+
+.video-section{
+    height: 700px;
+    width: 100%;
+    margin-top: 20px;
+    background-color: #710d73;
+}
+.video-heading{
+    color: white;
+    margin: 10px;
+}
+.top-product-right{
+    background-color: #fccab6;
+}
+.top-product-text{
+    height: 400px;
+}
+.product-texts{
+    
+    line-height: 30px;
+}
+
+/* viewdetails butn */
+.viewdetails-btn{
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: #f8ab8c;
+    
+}
+.viewdetails-btn:hover{
+    background-color: white;
+}
+
+/* footer contents */
+.hovername:hover{
+    color: rgb(95, 227, 227);
+}
